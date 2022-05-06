@@ -1,4 +1,3 @@
 # DWCNN
-This is the code of our paper. 
+This is the code of our paper, Double weighting convolutional neural net-works for multi-view 3D shape recognition. 
 (The code is Based on MVCNN and GVCNN).
-Our core code 'DWCNN.py' will be released after the article is received.
